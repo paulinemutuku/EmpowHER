@@ -1,1 +1,1 @@
-mages
+Images
